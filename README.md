@@ -7,7 +7,7 @@ C++, Tcl/Tk, Python
  - Графические оболочки
  - Консольные приложения
  - API-шки
- - Базы данных MS SQL Server-а - SQL + XML (XPath & XQuery, XSD, XSLT)
+ - Базы данных MS SQL Server-а (SQL + XML (XPath & XQuery, XSD, XSLT))
  - Прототипирование
  - Расчеты
  - Математическое моделирование
