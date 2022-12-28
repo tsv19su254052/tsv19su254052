@@ -4,6 +4,6 @@
  - Прототипирование
  - Расчеты и математическое моделирование
  - Прикладное программирование на **C++**, **Tcl/Tk**, **Python** (Текстовые приложения, Графические оболочки, API-шки)
- - Разработка и администрирование баз данных на **MS SQL Server**-а (**SQL + XML** (XPath & XQuery, XSD, XSLT. EXSLT, Relax NG, XSpec, XLink, XMark, XInclude))
+ - Разработка и администрирование баз данных на **MS SQL Server**-е (**SQL + XML** (XPath & XQuery, XSD, XSLT. EXSLT, Relax NG, XSpec, XLink, XMark, XInclude))
 
 ![001 001 001](https://user-images.githubusercontent.com/104857185/209859680-9ea84401-32e5-42d0-b6b2-5d5a1f6f5a08.jpg)
