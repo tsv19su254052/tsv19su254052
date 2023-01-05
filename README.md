@@ -14,7 +14,7 @@
 
 Язык C++ в настоящее время в основном используется для написания операционных систем и драйверов и в источниках уже не упоминается как язык высокого уровня.
 
-Язык [Tcl](https://www.tcl.tk/about/language.html) изначально был задуман для системных задач, в конце 1990-х также применятся для написания скриптов-обработчиков виджетов на графических оболочках внутри например среды разработки [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) и [Komodo](https://www.activestate.com/products/komodo-ide/), но имеет возможности примерно как у [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) и [Basic](https://en.wikipedia.org/wiki/BASIC).
+Язык [Tcl](https://www.tcl.tk/about/language.html) (имеет возможности примерно как у [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) и [Basic](https://en.wikipedia.org/wiki/BASIC)) изначально был задуман для системных задач, в конце 1990-х также применятся для написания скриптов-обработчиков виджетов на графических оболочках внутри например среды разработки [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) и [Komodo](https://www.activestate.com/products/komodo-ide/).
 
 Доля Python-а в прикладном программировании увеличивается по сравнению с остальными.
 
