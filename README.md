@@ -12,7 +12,7 @@
 
  - Прикладное программирование на [**C++**](https://en.wikipedia.org/wiki/C%2B%2B), [**Tcl/Tk**](https://en.wikipedia.org/wiki/Tcl), [**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) (текстовые и графические оболочки)
 
-Язык C++ в настоящее время в основном используется для написания операционных систем и драйверов и в источниках уже не упоминается как язык высокого уровня.
+Язык C++ в настоящее время в основном используется для написания операционных систем, драйверов и коммерческого программного обеспечения и в источниках уже не упоминается как язык высокого уровня.
 
 Язык [Tcl](https://www.tcl.tk/about/language.html) (имеет возможности примерно как у [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) и [Basic](https://en.wikipedia.org/wiki/BASIC)) изначально был задуман для системных задач, в конце 1990-х также применятся для написания скриптов-обработчиков виджетов на графических оболочках внутри например среды разработки [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) и [Komodo](https://www.activestate.com/products/komodo-ide/).
 
