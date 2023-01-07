@@ -4,7 +4,7 @@
 
 Язык [C++](https://isocpp.org/) еще в ходу и в настоящее время в основном используется для написания операционных систем, драйверов и коммерческого программного обеспечения и в источниках уже не упоминается как язык высокого уровня.
 
-Язык [Tcl](https://www.tcl.tk/about/language.html) (имеет возможности примерно как у [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) и [Basic](https://en.wikipedia.org/wiki/BASIC)) изначально был задуман для системных задач и хорошо применялся в [ORACLE Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris), в конце 1990-х также применятся для написания скриптов-обработчиков виджетов на графических оболочках внутри например среды разработки [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) и [Komodo](https://www.activestate.com/products/komodo-ide/).
+Язык [Tcl](https://www.tcl.tk/about/language.html) (имеет возможности примерно как у [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) и [Basic](https://en.wikipedia.org/wiki/BASIC)) изначально был задуман для системных задач и хорошо применялся на [ORACLE Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris), в конце 1990-х также применятся для написания скриптов-обработчиков виджетов на графических оболочках внутри например среды разработки [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) и [Komodo](https://www.activestate.com/products/komodo-ide/).
 
 Язык [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) по-тихому уходит в историю. В основном допиливают и перепиливают наработки середины 2000-х, когда он перехватил инициативу у Tcl и хорошо вписался в ВЭБ-разработку. Его поддержка на разных уровнях устаревает и засыхает.
 
