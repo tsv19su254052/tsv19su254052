@@ -1,4 +1,4 @@
-[Объемы работ и краткое изложение принципов](https://github.com/tsv19su254052/tsv19su254052/blob/main/Works.md)
+[Объемы выполняемых работ и краткое изложение принципов](https://github.com/tsv19su254052/tsv19su254052/blob/main/Works.md)
 
 [Применяемые языки программирования и их библиотеки](https://github.com/tsv19su254052/tsv19su254052/blob/main/Languages.md)
 
