@@ -17,7 +17,7 @@
 
 <!--
 Некоторые особенности `GitHub`-а:
- - на репозиториях оригиналов подмодулей значек <span style="color:Green">"Used by ..."</span> пока не появляется,
+ - на репозиториях оригиналов подмодулей значек <span style="color:Green">"Used by ..."</span> пока не появляется (не включен граф зависимостей - см. https://stackoverflow.com/questions/56888176/how-to-configure-github-used-by-feature-for-java-projects),
  - при добавлении участника в `Contributor`-ы его активность на `GitHub`-е (если она ему так важна и нужна) не видна ни у него, ни у остальных.
 -->
 
