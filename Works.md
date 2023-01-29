@@ -1,6 +1,6 @@
 Объемы работ и очень краткое изложение принципов по [прикладному программированию](https://en.wikipedia.org/wiki/Application_software) :slightly_smiling_face: для [централизованных](https://en.wikipedia.org/wiki/Centralized_computing) и [распределенных](https://en.wikipedia.org/wiki/Distributed_computing) вычислений на [серверах](https://en.wikipedia.org/wiki/Windows_Server "Windows Server - на сегодняшний момент из имеющихся в наличии самая лучшая ОС. По-моему уже хватит мучить Linux-ы и тем более BSD . Прикладные пакеты на Linux (Debian-ы и RedHat-совместимые) делают индийские и бразильские студенты. Аппаратные сбои в электронике Linux просто не видит или не определяется их источники. Согласно сплетням еще в 2007-м году разработчики из NetBSD и из OpenBSD перебежали в M$ и в Google"), а также для [децентрализованных](https://en.wikipedia.org/wiki/Decentralized_computing) вычислений на [клиентах](https://en.wikipedia.org/wiki/Microsoft_Windows):
 
-1. Прототипирование и архитектурные решения
+1. Эскизы, прототипирование и архитектурные решения
 
 В принципе практически все наработки являются прототипами и склоняются к циклу **"Анализ - Дизайн - Разработка - Тестирование - Эксплуатация - Анализ"** (см. [русскоязычную адаптацию](http://sewiki.ru/Systems_Engineering_Thinking_Wiki:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5) с легким уклоном в [гностику](https://en.wikipedia.org/wiki/Gnosticism)), поэтому для поддержания актуальности требуют [постоянного совершенствования](https://en.wikipedia.org/wiki/CI/CD).
 
