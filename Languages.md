@@ -26,7 +26,7 @@
 
 [pySimpleGUI](https://www.pysimplegui.org/en/latest/) прост, интересен, имеет наборы стилей, внешне напоминает ВЭБ-разработку, но на нем мало примеров. 
 
-[Gtk и Gtk+](https://en.wikipedia.org/wiki/GTK "В настоящее время имеют ошибки") используются в `Linux`-е. Библиотека [pyGTK](https://en.wikipedia.org/wiki/PyGTK) закрыта в 2011-м, на `Windows` пока не ставится, переехала на [pyGObject](https://pygobject.readthedocs.io/en/latest/). Начиная с `GTK+` версии 3 есть ошибки. Есть дизайнеры, в том числе [GTK Builder](https://docs.gtk.org/gtk3/class.Builder.html).
+[Gtk и Gtk+](https://en.wikipedia.org/wiki/GTK "В настоящее время имеют ошибки") используются в `Linux`-е. Библиотека [pyGTK](https://en.wikipedia.org/wiki/PyGTK) закрыта в 2011-м, на `Windows` пока не ставится, переехала на [pyGObject](https://pygobject.readthedocs.io/en/latest/). Начиная с `GTK+` версии 3 есть ошибки. Есть открытые и коммерческие дизайнеры, в том числе [GTK Builder](https://docs.gtk.org/gtk3/class.Builder.html).
 
 [wxPython](https://en.wikipedia.org/wiki/WxPython) неправильно отображает кодировки и не пропорцинально отображает виждеты в разных сочетаниях
 
