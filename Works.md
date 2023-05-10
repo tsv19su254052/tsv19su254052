@@ -2,7 +2,7 @@
 
 ## 1. Эскизы, прототипы и архитектурные решения
 
-Если нужно что-то для нечастого использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как API-шка, то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript). Для работы с базами данных пишем скрипт на `SQL` с помощью среды разработки **SQL Server Management Studio** и возможно со вставками на `XPath & XQuery`, проверенными с помощью среды управления [BaseX](https://en.wikipedia.org/wiki/BaseX), [Oxygen XML](https://en.wikipedia.org/wiki/Oxygen_XML_Editor) или [Raptor XML](https://www.altova.com/raptorxml). Посложнее - скрипт на **Python**-е с уже проверенными вставками на `SQL` + `XPath & XQuery`.
+Если нужно что-то для нечастого использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как API-шка, то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript). Для работы с базами данных пишем скрипт на `SQL` с помощью среды разработки [SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL_Server_Management_Studio) и возможно со вставками на `XPath & XQuery`, проверенными с помощью среды управления [BaseX](https://en.wikipedia.org/wiki/BaseX), [Oxygen XML](https://en.wikipedia.org/wiki/Oxygen_XML_Editor) или [Raptor XML](https://www.altova.com/raptorxml). Посложнее - скрипт на `Python`-е с уже проверенными вставками на `SQL` + `XPath & XQuery`.
 
 Если нужно что-то для многопользовательского и многократного повторного применения с одновременным графическим и текстовым вводом-выводом, ваяем [интерактивную оболочку](https://en.wikipedia.org/wiki/User_interface_design) на **Python**-е.
 
