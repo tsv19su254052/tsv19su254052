@@ -4,7 +4,7 @@
 
 Функционал плотного взаимодействия с пользователями склоняется к циклу [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle). Для удобства [внесения изменений](https://en.wikipedia.org/wiki/CI/CD) по мере надобности и в зависимости от раскладки приоритетов оставляем все на стадии рабочего эволюционного и инкрементного прототипа (аналог фазы 2 в "Среде разработки требований (REE)" от [Римской лаборатории](https://en.wikipedia.org/wiki/Rome_Laboratory)) согласно методе "Эволюционной быстрой разработки (ERD)" от [DARPA](https://en.wikipedia.org/wiki/DARPA) (см. [русскоязычную адаптацию](http://sewiki.ru/Systems_Engineering_Thinking_Wiki:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5) с легким уклоном в [гностику](https://en.wikipedia.org/wiki/Gnosticism)).
 
-Если нужно что-то для нечастого использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как API-шка или как хранимая процедура, то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript) для работы с базами и структурами данных:
+Если нужно что-то для нечастого использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как функция, API-шка или хранимая процедура, то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript) для работы с базами и структурами данных:
  - на `SQL` с помощью среды разработки [SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL_Server_Management_Studio),
  - на `XPath & XQuery`с помощью среды управления [BaseX](https://en.wikipedia.org/wiki/BaseX), [Oxygen XML](https://en.wikipedia.org/wiki/Oxygen_XML_Editor) или [Raptor XML](https://www.altova.com/raptorxml),
  - на `SQL` со вставками на `XPath & XQuery`,
