@@ -52,7 +52,7 @@
 Для `XML`-ных структур данных применяются:
  - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) - определение входной информации и документации на соответствие,
  - [XLink](https://en.wikipedia.org/wiki/XLink) - привязка ссылок на внешние ресурсы,
- - [XInclude](https://www.w3.org/TR/xinclude/) - привязка внешних файлов, в том числе других структур данных,
+ - [XInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) - привязка внешних файлов, в том числе других структур данных,
  - [XPointer](https://en.wikipedia.org/wiki/XPointer) - индексация по подветкам и узлам,
  - [XPath](https://en.wikipedia.org/wiki/XPath) & [XQuery](https://en.wikipedia.org/wiki/XQuery) и [EXPath](http://expath.org/) - написание запросов вручную,
  - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) - написание запросов частично программно и частично вручную,
