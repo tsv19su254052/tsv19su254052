@@ -41,7 +41,7 @@
  - [XLink](https://en.wikipedia.org/wiki/XLink) - привязка к структуре данных ссылок на внешние ресурсы,
  - [XInclude](https://www.w3.org/TR/xinclude/) - привязка к структуре данных внешних файлов, в том числе внешних структур данных,
  - [XPath](https://en.wikipedia.org/wiki/XPath) & [XQuery](https://en.wikipedia.org/wiki/XQuery) и [EXPath](http://expath.org/) - написание запросов вручную,
- - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) - составление запросов программно и частично вручную,
+ - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) - написание запросов частично программно и частично вручную,
  - [XSpec](https://github.com/expath/xspec/tree/master) и [XProc](https://en.wikipedia.org/wiki/XProc) - плагин или отдельный процесс для преобразования результатов запросов,
  - [OPML](https://en.wikipedia.org/wiki/OPML) - одно из преобразований результатов запросов,
  - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) - оформление результатов запросов.
