@@ -37,7 +37,7 @@
 Посчитали различные задачи оптимизации, которые ждали своего решения еще с 1960-х годов.
 
 ## 3. Разработка и администрирование структур и баз данных в части **[SQL](https://en.wikipedia.org/wiki/SQL) + [XML](https://en.wikipedia.org/wiki/XML)** [💬](http://www.chernyshov.com/SPPO_6/theory/wt_xml.htm "Описание"), а также их анализ с помощью:
- - [XPath](https://en.wikipedia.org/wiki/XPath) & [XQuery](https://en.wikipedia.org/wiki/XQuery) и [EXPath](http://expath.org/) (в части написания запросов),
+ - [XPath](https://en.wikipedia.org/wiki/XPath) & [XQuery](https://en.wikipedia.org/wiki/XQuery) и [EXPath](http://expath.org/) в части написания запросов,
  - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) в части определения входных данных на соответствие,
  - [XSLT](https://en.wikipedia.org/wiki/XSLT) и [EXSLT](https://en.wikipedia.org/wiki/EXSLT) в части выделения и форматирования определенных данных,
  - [XSpec](https://github.com/expath/xspec/tree/master),
