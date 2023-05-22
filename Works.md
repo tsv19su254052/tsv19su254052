@@ -50,7 +50,7 @@
 которые предполагается использовать для парса сайтов в основном как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model), но все они используют те же типы данных (пространства имен). Есть плагины [Saxon](https://www.saxonica.com/about/about.xml)-а и есть интеграция со [Schematron](https://en.wikipedia.org/wiki/Schematron)-ом.
 
 Для `XML`-ных структур данных применяются:
- - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) - определение входной информации и документации на соответствие,
+ - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) - определение входной информации на соответствие,
  - [XLink](https://en.wikipedia.org/wiki/XLink) - привязка ссылок на внешние ресурсы,
  - [XInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) - привязка внешних файлов, в том числе других структур данных,
  - [XPointer](https://en.wikipedia.org/wiki/XPointer) - индексация по подветкам и узлам,
