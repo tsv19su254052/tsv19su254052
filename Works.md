@@ -44,7 +44,7 @@
 
 Для `XML`-ных полей есть интересные возможности у библиотек:
  - [lxml](https://lxml.de/apidoc/lxml.isoschematron.html "Статья от разработчиков") [💬](https://pypi.org/project/lxml "Статья на зеркале с библиотекой со ссылками на GitHub"),
- - [xml.dom](https://docs.python.org/3.9/library/xml.dom.minidom.html) и [xml.etree](https://docs.python.org/3.7/library/xml.etree.elementtree.html),
+ - [xml.dom](https://docs.python.org/3.9/library/xml.dom.minidom.html "DOM") и [xml.etree](https://docs.python.org/3.7/library/xml.etree.elementtree.html "SAX"),
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
 
 которые предполагается использовать для парса сайтов в основном как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model), но все они используют те же типы данных (пространства имен). Есть плагины [Saxon](https://www.saxonica.com/about/about.xml)-а и есть интеграция со [Schematron](https://en.wikipedia.org/wiki/Schematron)-ом.
