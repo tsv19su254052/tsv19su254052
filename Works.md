@@ -43,7 +43,7 @@
 Для `SQL`-ных полей есть библиотека [SQLAlchemy](https://docs.sqlalchemy.org/en/14/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc) как слой абстракции (имеет 2 режима, из которых используем [Core](https://docs.sqlalchemy.org/en/20/core)).
 
 Для `XML`-ных полей есть интересные возможности у библиотек:
- - [lxml](https://lxml.de/apidoc/lxml.isoschematron.html "Статья от разработчиков") [💬](https://pypi.org/project/lxml "Статья на зеркале библиотеки со ссылками на GitHub"),
+ - [lxml](https://lxml.de/apidoc/lxml.isoschematron.html "Статья от разработчиков") [💬](https://pypi.org/project/lxml "Статья на зеркале с библиотекой со ссылками на GitHub"),
  - [xml.dom](https://docs.python.org/3.9/library/xml.dom.minidom.html) и [xml.etree](https://docs.python.org/3.7/library/xml.etree.elementtree.html),
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
 
