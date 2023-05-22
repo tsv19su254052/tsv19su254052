@@ -6,7 +6,7 @@
 
 Если нужно что-то для нечастого использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как функция, API-шка или хранимая процедура для работы с базами и структурами данных, то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript):
  - на `SQL` с помощью среды разработки [SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL_Server_Management_Studio),
- - на `XPath & XQuery`с помощью среды управления [BaseX](https://en.wikipedia.org/wiki/BaseX), [Oxygen XML](https://en.wikipedia.org/wiki/Oxygen_XML_Editor) или [Raptor XML](https://www.altova.com/raptorxml),
+ - на `XPath & XQuery`с помощью среды управления [BaseX](https://en.wikipedia.org/wiki/BaseX) [💬](https://docs.basex.org/wiki/XQuery_Update "Статья на сайте разработчиков"), [Oxygen XML](https://en.wikipedia.org/wiki/Oxygen_XML_Editor) или [Raptor XML](https://www.altova.com/raptorxml),
  - на `SQL` со вставками на `XPath & XQuery`,
  - на `Python`-е с помощью среды разработки [pyCharm](https://en.wikipedia.org/wiki/PyCharm),
  - то же с уже проверенными вставками на `SQL` + `XPath & XQuery`.
