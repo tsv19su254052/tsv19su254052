@@ -55,6 +55,8 @@
 
 Текущая версия pyCharm пока не гармонирует с [TortoiseGIT](https://en.wikipedia.org/wiki/TortoiseGit)
 
+![TortoiseGit Plugin for pyCharm Ошибка установки (старый)](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/9e1aff80-f283-466e-bd24-6315cf83e171)
+
 Только `GitHub`-а для самостоятельной работы недостаточно и если проект на платформе с доступом не по RDP, то можно попробовать совместную работу на [coda.io](https://coda.io/workspaces/ws-ga7Eabm46u/folders/fl-7OkuhzSo66?source=doc-title-bar) с пре-коммитами [Terraform](https://en.wikipedia.org/wiki/Terraform_(software)) на инфраструктуре облака. Но там уже надо по-серьезному рисовать проект, писать конфиги и все полностью закидывать туда.
 
 ----
