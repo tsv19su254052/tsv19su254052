@@ -57,7 +57,7 @@
 
 ![TortoiseGit Plugin for pyCharm Установка с диска](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/bf1d5fb9-0a03-4da8-a15b-b7477875ea55)
 
-Если проект с доступом не по RDP, а по ВЭБ-мордочке, то можно попробовать совместную работу на [coda.io](https://coda.io/workspaces/ws-ga7Eabm46u/folders/fl-7OkuhzSo66?source=doc-title-bar) с пре-коммитами [Terraform](https://en.wikipedia.org/wiki/Terraform_(software)) на инфраструктуре облака. Но там уже надо по-серьезному рисовать проект, писать конфиги и манифесты и все полностью закидывать туда. Вот [видео](https://www.youtube.com/watch?v=JC_OyWpqNSA) с примером на [Selectel](https://en.wikipedia.org/wiki/Selectel).
+Если проект с доступом не по RDP, а по ВЭБ-мордочке, то можно попробовать совместную работу на [coda.io](https://coda.io/workspaces/ws-ga7Eabm46u/folders/fl-7OkuhzSo66?source=doc-title-bar) с пре-коммитами [Terraform](https://en.wikipedia.org/wiki/Terraform_(software)) на инфраструктуре облака. Но там уже надо по-серьезному рисовать проект, писать конфиги и манифесты и все полностью закидывать туда. Вот [видео](https://www.youtube.com/watch?v=JC_OyWpqNSA) с примером на [Selectel](https://en.wikipedia.org/wiki/Selectel). Но по итогам --вождения за нос в 3-х соснах-- знакомства про кластеры в Kubernetes, POD-ы, Node-ы на Docker-е Вам таки предложат выделенный сервер (называется VDS), как вершину их сервиса
 
 ----
 Связаться со мной можно в обсуждениях на репозиториях. К критике отношусь конструктивно. Буду благодарен за замечания.
