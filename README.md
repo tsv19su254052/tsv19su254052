@@ -29,7 +29,7 @@
 
 ![pyCharm - Ошибка синхронизации с GitHub-ом (другая учетка)](https://user-images.githubusercontent.com/104857185/216789558-ea500396-740e-4977-a426-22d01753f799.png)
 
-Выход из ситуации - команда `git config --global --add safe.directory ...` , но она срабатывает на один сеанс работы с проектом.
+Выход из ситуации - команда `git config --global --add safe.directory ...` , но она срабатывает на один сеанс работы с проектом. При этом эта активность на GitHub-е не отображается.
 
 ![pyCharm - git submodule add](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/239cc5e3-8c76-4c03-8629-acb14e9fef99)
 
