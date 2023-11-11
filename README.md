@@ -53,7 +53,7 @@
 ```
 -->
 
-Текущая версия pyCharm пока не гармонирует со своим плагином для интеграции с [TortoiseGIT](https://en.wikipedia.org/wiki/TortoiseGit)
+Текущая версия `pyCharm` пока не гармонирует со своим плагином для интеграции с [TortoiseGIT](https://en.wikipedia.org/wiki/TortoiseGit)
 
 ![TortoiseGit Plugin for pyCharm Установка с диска](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/bf1d5fb9-0a03-4da8-a15b-b7477875ea55)
 
