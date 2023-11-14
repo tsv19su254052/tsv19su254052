@@ -1,4 +1,4 @@
-[Объемы выполняемых работ и способы их выполнения](https://github.com/tsv19su254052/tsv19su254052/blob/main/Works.md)
+[Объемы выполняемых работ](https://github.com/tsv19su254052/tsv19su254052/blob/main/Works.md)
 
 [Применяемые средства разработки](https://github.com/tsv19su254052/tsv19su254052/blob/main/Languages.md)
 
