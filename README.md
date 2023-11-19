@@ -1,3 +1,5 @@
+## Общие указания
+
 <!--
 [Объемы выполняемых работ](https://github.com/tsv19su254052/tsv19su254052/blob/main/Works.md)
 
