@@ -9,8 +9,8 @@
 И кстати опять же не заменят XML, так как `*.dat, *.ini, *.json, *.yaml` - словарь, конфигурация, настройка, а `*.xml` - ветвление, топология, структура.
 
 К **SQL-ным** базам можно прикрутить внешние таблицы из **не-SQL-ных**:
- - [Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
- - [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
+ - [Hadoop](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-configure-hadoop?view=sql-server-ver15&viewFallbackFrom=sql-server-ver16)
+ - [MongoDB](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-configure-mongodb?view=sql-server-ver16)
  - [Cosmos DB](https://en.wikipedia.org/wiki/Cosmos_DB)
  
   через [PolyBase](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-guide?view=sql-server-ver16)
