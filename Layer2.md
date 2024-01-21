@@ -16,7 +16,7 @@
  - [xml.dom](https://docs.python.org/3.9/library/xml.dom.minidom.html "DOM") и [xml.etree](https://docs.python.org/3.7/library/xml.etree.elementtree.html "SAX"),
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
 
-которые предполагается использовать для парса сайтов в основном как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model), но все они используют те же типы данных (пространства имен).
+которые предполагается использовать для парса сайтов как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) или как [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML), но все они используют те же типы данных (пространства имен).
 
 Для `XML`-ных структур данных применяются несложные в понимании:
  - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) (определение входной информации на соответствие),
