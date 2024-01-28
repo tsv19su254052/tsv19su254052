@@ -82,7 +82,11 @@
 Библиотека [pyQt](https://en.wikipedia.org/wiki/Qt_(software)):
  - Самая ходовая и функциональная.
  - Можно вставлять виджеты и графику из других фрэймворков.
- - Макет (эскиз) рисуется и сохраняется :floppy_disk: XML-ной структурой в файле __имя файла.ui__ или __имя файла.gui__ комплектным [QtDesigner](https://doc.qt.io/qt-6/qtdesigner-manual.html)-ом, который вызывается командой **pyqt5-tools designer** (версия 3.10 и более ранние) или **pyqt6-tools designer** (версия 3.11) (см. [статью](https://stackoverflow.com/questions/72060996/cannot-install-pyqt6-tools-in-python-3-11-on-windows)).
- - Дизайнер можно поставить отдельно (платное ПО, триалка 10 дней).
+ - Макет (эскиз) рисуется и сохраняется :floppy_disk: XML-ной структурой в файле __имя файла.ui__ или __имя файла.gui__ комплектным дизайнером, который вызывается командой **pyqt5-tools designer** (версия 3.10 и более ранние) или **pyqt6-tools designer** (версия 3.11) (см. [статью](https://stackoverflow.com/questions/72060996/cannot-install-pyqt6-tools-in-python-3-11-on-windows)).
+ - Можно поставить отдельный коммерческий [QtDesigner](https://doc.qt.io/qt-6/qtdesigner-manual.html) (триалка 10 дней).
+ - Можно поставить отдельный свободный [QtDesigner](https://build-system.fman.io/qt-designer-download).
+
+![Запуск](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/cbdcbee4-ecc3-4277-9201-26d0d0df95e0)
+
  - Каждый ресурсный файл для вставки в проект конвертируется в исходник класса командой **pyuic5  __имя файла.ui__ -o __имя файла.py__**. Классы можно вынести в файл классов и сослаться на него на исполнении.
  - Среда разработки [pyCharm](https://en.wikipedia.org/wiki/PyCharm) :netherlands: просто идеальна :books:
