@@ -42,7 +42,7 @@
 
 ----
 
-[FrameWork](https://en.wikipedia.org/wiki/Software_framework) [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)) внутри библиотеки [tkinter](https://en.wikipedia.org/wiki/Tkinter) :
+[Фрэймворк](https://en.wikipedia.org/wiki/Software_framework) [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)) внутри библиотеки [tkinter](https://en.wikipedia.org/wiki/Tkinter) :
  - Имеет ограниченные по нынешним временам возможности для творчества.
  - Содержит встроенный интерпретатор `tcl`.
  - Для рисования макетов (эскизов) графической оболочки есть [tk-builder](https://pypi.org/project/tk-builder) 🗯️, есть [самодельный дизайнер](https://github.com/ParthJadhav/Tkinter-Designer) и даже [WEB-дизайнер](https://visualtk.com/) , а также другие свободные и платные [дизайнеры](https://stackoverflow.com/questions/14142194/is-there-a-gui-design-app-for-the-tkinter-grid-geometry) разной свежести и функционала.
