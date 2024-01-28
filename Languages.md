@@ -95,3 +95,4 @@
 ----
 
 Среда разработки [pyCharm](https://en.wikipedia.org/wiki/PyCharm) :netherlands: просто идеальна :books:
+Есть бесплатная и коммерческая (нужна для [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) и тестов)
