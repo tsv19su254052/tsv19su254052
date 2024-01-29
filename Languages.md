@@ -68,7 +68,7 @@
 [pyQt](https://en.wikipedia.org/wiki/Qt_(software)):
  - Самая ходовая и функциональная.
  - Есть свободная (все слетает при слишком быстром обновлении полосы прогресса и др.) и есть коммерческая.
- - Можно вставлять виджеты и графику из других библиотек, например графику [MatPlotLib](https://en.wikipedia.org/wiki/Matplotlib), карту в виде подложки с Google Maps (см. [статью](https://stackoverflow.com/questions/62835189/how-to-show-google-map-in-my-qtgui-using-pyqt5-qwebkitwidgets)), морскую карту с кораблями и самолетами.
+ - Можно вставлять виджеты и графику из других библиотек, например графику [MatPlotLib](https://en.wikipedia.org/wiki/Matplotlib), карту в виде подложки с [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) (см. [статью](https://stackoverflow.com/questions/62835189/how-to-show-google-map-in-my-qtgui-using-pyqt5-qwebkitwidgets)), [морскую карту](https://www.marinetraffic.com/ru/ais/home/centerx:-12.0/centery:25.0/zoom:4) с кораблями и самолетами.
  - Макет (эскиз) рисуется и сохраняется :floppy_disk: XML-ной структурой в файле __имя файла.ui__ или __имя файла.gui__ комплектным дизайнером, который вызывается командой **pyqt5-tools designer** (версия 3.10 и более ранние) или **pyqt6-tools designer** (версия 3.11) (см. [статью](https://stackoverflow.com/questions/72060996/cannot-install-pyqt6-tools-in-python-3-11-on-windows)).
 
 ![Запуск](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/cbdcbee4-ecc3-4277-9201-26d0d0df95e0)
