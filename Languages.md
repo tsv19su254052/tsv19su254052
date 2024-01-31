@@ -42,11 +42,11 @@
 
 ## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework):
 
-[tkinter](https://en.wikipedia.org/wiki/Tkinter):
+[tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html):
  - Использует [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)), который имеет ограниченные по нынешним временам возможности для творчества. 
  - Содержит встроенный интерпретатор `TCL`, скрипты на котором можно прикрутить к графической оболочке как функционал.
  - Макеты (эскизы) пишутся в исходниках.
- - Для рисования макетов (эскизов) графической оболочки есть [tk-builder](https://pypi.org/project/tk-builder) 🗯️, есть самодельный [TkInter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) и даже [WEB-дизайнер](https://visualtk.com/) , а также другие свободные и платные [дизайнеры](https://stackoverflow.com/questions/14142194/is-there-a-gui-design-app-for-the-tkinter-grid-geometry) разной свежести.
+ - Для рисования макетов (эскизов) графической оболочки есть [tk-builder](https://pypi.org/project/tk-builder) , есть самодельный [TkInter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) и даже [WEB-дизайнер](https://visualtk.com/) , а также другие свободные и платные [дизайнеры](https://stackoverflow.com/questions/14142194/is-there-a-gui-design-app-for-the-tkinter-grid-geometry) разной свежести.
 
 [tkvue](https://pypi.org/project/tkvue) [💬](https://gitlab.com/ikus-soft/tkvue) :
  - Дополнительно может использовать [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)).
