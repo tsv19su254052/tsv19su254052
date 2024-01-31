@@ -40,7 +40,7 @@
 
 На Windows Server 2019, 2022 ставим все Python-ы в порядке возрастания v. 2.7, 3.5 ... 3.11 (есть в папаке `Q:\M$_Windows\Python` на сервере).
 
-## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework) в основном для `Python`-а:
+## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework) `Python`-а в том числе:
 
 [tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html) [🗯️](https://ru.wikibooks.org/wiki/GUI_Help/Tkinter_book):
  - Использует [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)), который имеет ограниченные по нынешним временам возможности для творчества. 
