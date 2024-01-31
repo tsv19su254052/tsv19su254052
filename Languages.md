@@ -42,7 +42,7 @@
 
 ## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework):
 
-[tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html):
+[tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html) [🗯️](https://ru.wikibooks.org/wiki/GUI_Help/Tkinter_book):
  - Использует [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)), который имеет ограниченные по нынешним временам возможности для творчества. 
  - Содержит встроенный интерпретатор `TCL`, скрипты на котором можно прикрутить к графической оболочке как функционал.
  - Макеты (эскизы) пишутся в исходниках.
