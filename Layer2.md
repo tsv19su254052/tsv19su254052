@@ -16,7 +16,7 @@
  - [lxml](https://lxml.de/) [💬](https://pypi.org/project/lxml "Статья на зеркале с библиотекой со ссылками на GitHub") (навороченнее, сложнее),
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [💬](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) (чистый парсер), 
 
-которые предполагается использовать в основном для парса сайтов как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) или как [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML).
+которые используются в основном для парса сайтов как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) или как [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML).
 
 Для `XML`-ных структур данных применяются несложные в понимании:
  - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) (определение входной информации на соответствие),
