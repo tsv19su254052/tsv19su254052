@@ -21,7 +21,7 @@
  - [XProc](https://en.wikipedia.org/wiki/XProc), [XSpec](https://github.com/expath/xspec/tree/master) и [OPML](https://en.wikipedia.org/wiki/OPML) (выполнение запроса в прикладном слое),
  - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) (оформление результата запроса).
 
-Для `XML`-ных полей средствами 'Python'-а также есть интересные возможности у библиотек:
+Для `XML`-ных полей средствами `Python`-а также есть интересные возможности у библиотек:
  - [xml](https://docs.python.org/3/library/xml.html),
  - [lxml](https://lxml.de/) [💬](https://pypi.org/project/lxml "Статья на зеркале с библиотекой со ссылками на GitHub") (быстрее, но документация сложнее в понямании),
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [💬](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) (чистый парсер)
