@@ -10,8 +10,8 @@
 Для `SQL`-ных полей есть библиотека [SQLAlchemy](https://docs.sqlalchemy.org/en/14/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc) в режиме [Core](https://docs.sqlalchemy.org/en/20/core) как слой абстракции.
 
 Для подключения к базам данных:
- - со справочниками достаточно драйвера например ODBC (см. [статью](https://stackoverflow.com/questions/39440008/differences-between-drivers-for-odbc-drivers)),
- - с оперативными (рабочими) данными, в которых присутствуют вложенные обработки исключений и транзакции, нужен системный DSN (см. [статью](https://www.websense.com/content/support/library/data/v85/help/windows%20dsn.aspx)).
+ - со справочниками достаточно драйвера СУБД (см. [статью](https://stackoverflow.com/questions/39440008/differences-between-drivers-for-odbc-drivers)), драйверы с возможностями побогаче по наблюдениям работают медленнее,
+ - с оперативными (рабочими) данными, в которых присутствуют вложенные обработки исключений и транзакции, нужен системный DSN на базе драйвера СУБД (см. [статью](https://www.websense.com/content/support/library/data/v85/help/windows%20dsn.aspx)).
 
  При взаимоблокировке [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) откидывает запросы, а не ставит их в очередь. Обертываем запрос в обработку исключения и исполняем ее в цикле попыток с нарастающей задержкой. При увеличении интенсивности запросов паузы растягиваются и сервер недогружается. Снять попытки с паузы можно обратными вызовами от [Service Broker](https://learn.microsoft.com/ru-ru/sql/database-engine/configure-windows/sql-server-service-broker?view=sql-server-ver16), но там много ручной работы.
 
