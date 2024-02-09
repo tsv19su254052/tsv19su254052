@@ -19,8 +19,10 @@
  - [XProc](https://en.wikipedia.org/wiki/XProc) и [OPML](https://en.wikipedia.org/wiki/OPML) (выполнение запроса в прикладном слое),
  - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) (оформление результата запроса),
  - [Saxon](https://www.saxonica.com/about/about.xml),
- - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) (поглубже и посложнее, чем `XSLT`, из когда-то самостоятельного прикладного ПО перешел в плагины и в библиотеки для сред разработки),
+ - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) (поглубже и посложнее, чем `XSLT`, из когда-то),
  - [XSpec](https://xspec.io/about/) [💬](https://github.com/expath/xspec/tree/master) [💬](https://groups.google.com/g/xspec-users "Обсуждения по теме в группе") (анализ работы вышеперечисленных).
+
+Из когда-то самостоятельного (в основном платного) прикладного ПО эти разработки перешли в библиотеки и в плагины для сред разработки.
 
 Можно применить пользовательские пространства имен посложнее, которые неплохо бы держать где-нибудь на внешнем ресурсе `xmlns:x__="http://www._____ ..."` .
 
