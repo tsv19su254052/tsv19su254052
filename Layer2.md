@@ -17,7 +17,10 @@
  - [XPath](https://en.wikipedia.org/wiki/XPath) [💬](https://www.w3.org/TR/xpath-functions/#maps-and-arrays) & [XQuery](https://en.wikipedia.org/wiki/XQuery) [💬](http://xmlhack.ru/texts/03/xquery/what.is.xquery.html) [💬](https://documentation.softwareag.com/webmethods/compendiums/v10-5/C_API_Management/index.html#page/api-mgmt-comp%2Fco-portlet_custom_search_write_xquery.html%23) и [EXPath](http://expath.org/) (написание запросов вручную),
  - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) (написание запросов частично программно и частично вручную),
  - [XProc](https://en.wikipedia.org/wiki/XProc), [XSpec](https://github.com/expath/xspec/tree/master) и [OPML](https://en.wikipedia.org/wiki/OPML) (выполнение запроса в прикладном слое),
- - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) (оформление результата запроса).
+ - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) (оформление результата запроса),,
+ - [Saxon](https://www.saxonica.com/about/about.xml),
+ - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) (поглубже и посложнее, чем `XSLT`, из когда-то самостоятельного прикладного ПО перешли в плагины и в библиотеки для сред разработки),
+ - [XSpec](https://xspec.io/about/) (анализ работы вышеперечисленных).
 
 Можно применить пользовательские пространства имен посложнее, которые неплохо бы держать где-нибудь на внешнем ресурсе `xmlns:x__="http://www._____ ..."` .
 
@@ -29,8 +32,6 @@
  - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [💬](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) (чистый парсер)
 
 которые их парсят как [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML), анализируют как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model), изменяют и записывают.
-
-[Saxon](https://www.saxonica.com/about/about.xml) и [Schematron](https://en.wikipedia.org/wiki/Schematron) сейчас из самостоятельного прикладного ПО перешли в плагины и в библиотеки для сред разработки.
 
 Для подключения к базам данных:
  - со справочниками достаточно драйвера СУБД (см. [статью](https://stackoverflow.com/questions/39440008/differences-between-drivers-for-odbc-drivers)), драйверы с возможностями побогаче по наблюдениям работают медленнее,
