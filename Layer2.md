@@ -10,19 +10,19 @@
 Для `SQL`-ных полей есть библиотека [SQLAlchemy](https://docs.sqlalchemy.org/en/14/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pyodbc) в режиме [Core](https://docs.sqlalchemy.org/en/20/core) как слой абстракции.
 
 Для `XML`-ных структур данных применяются:
- - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) (определение входной информации на соответствие),
- - [XLink](https://en.wikipedia.org/wiki/XLink) (привязка ссылок на внешние ресурсы),
- - [XInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) (привязка или вставка внешних файлов, в том числе других структур данных),
- - [XPointer](https://en.wikipedia.org/wiki/XPointer) (индексация по подветкам и по узлам),
- - [XPath](https://en.wikipedia.org/wiki/XPath) [💬](https://www.w3.org/TR/xpath-functions/#maps-and-arrays) & [XQuery](https://en.wikipedia.org/wiki/XQuery) [💬](http://xmlhack.ru/texts/03/xquery/what.is.xquery.html) [💬](https://documentation.softwareag.com/webmethods/compendiums/v10-5/C_API_Management/index.html#page/api-mgmt-comp%2Fco-portlet_custom_search_write_xquery.html%23) и [EXPath](http://expath.org/) (написание запросов вручную),
- - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) (написание запросов частично программно и частично вручную),
- - [XProc](https://en.wikipedia.org/wiki/XProc) и [OPML](https://en.wikipedia.org/wiki/OPML) (выполнение запроса в прикладном слое),
- - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) (оформление результата запроса),
+ - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") и [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) - определение входной информации на соответствие,
+ - [XLink](https://en.wikipedia.org/wiki/XLink) - привязка ссылок на внешние ресурсы,
+ - [XInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) - привязка или вставка внешних файлов, в том числе других структур данных,
+ - [XPointer](https://en.wikipedia.org/wiki/XPointer) - индексация по подветкам и по узлам,
+ - [XPath](https://en.wikipedia.org/wiki/XPath) [💬](https://www.w3.org/TR/xpath-functions/#maps-and-arrays) & [XQuery](https://en.wikipedia.org/wiki/XQuery) [💬](http://xmlhack.ru/texts/03/xquery/what.is.xquery.html) [💬](https://documentation.softwareag.com/webmethods/compendiums/v10-5/C_API_Management/index.html#page/api-mgmt-comp%2Fco-portlet_custom_search_write_xquery.html%23) и [EXPath](http://expath.org/) - написание запросов вручную,
+ - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) - написание запросов частично программно и частично вручную,
+ - [XProc](https://en.wikipedia.org/wiki/XProc) и [OPML](https://en.wikipedia.org/wiki/OPML) - выполнение запроса в прикладном слое,
+ - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) - оформление результата запроса,
  - [Saxon](https://www.saxonica.com/about/about.xml),
- - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) (поглубже и посложнее, чем `XSLT`, из когда-то),
- - [XSpec](https://xspec.io/about/) [💬](https://github.com/expath/xspec/tree/master) [💬](https://groups.google.com/g/xspec-users "Обсуждения по теме в группе") (анализ работы вышеперечисленных).
+ - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) - поглубже и посложнее, чем `XSLT`,
+ - [XSpec](https://xspec.io/about/) [💬](https://github.com/expath/xspec/tree/master) [💬](https://groups.google.com/g/xspec-users "Обсуждения по теме в группе") - анализ работы вышеперечисленных.
 
-Эти наработки из когда-то самостоятельного (в основном платного) прикладного ПО перешли в библиотеки и в плагины для сред разработки.
+Эти наработки из самостоятельного (в основном платного) прикладного ПО также перешли в библиотеки и в плагины для сред разработки.
 
 Можно применить пользовательские пространства имен посложнее, которые неплохо бы держать где-нибудь на внешнем ресурсе `xmlns:x__="http://www._____ ..."` .
 

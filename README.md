@@ -9,4 +9,4 @@
 [Способы и средства разработки](https://github.com/tsv19su254052/tsv19su254052/blob/main/Languages.md)
 
 ----
-Облагодетельствовать можно на карточку <span style="color:Green">VISA</span> СберБанка 4276 3000 3587 2715
+Облагодетельствовать можно на карточку <span style="color:Green">VISA СберБанка</span> 4276 3000 3587 2715
