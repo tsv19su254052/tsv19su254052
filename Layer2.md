@@ -31,7 +31,7 @@
 Для работы с `XML`-ными структурами есть интересные возможности у библиотек:
  - [xml](https://docs.python.org/3/library/xml.html),
  - [lxml](https://lxml.de/) [💬](https://pypi.org/project/lxml "Статья на зеркале с библиотекой со ссылками на GitHub") (быстрее, сложнее),
- - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [💬](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) (чистый парсер)
+ - [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [💬](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) (чистый парсер),
 
 которые их парсят как [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML), анализируют как [DOM](https://en.wikipedia.org/wiki/Document_Object_Model), изменяют и записывают.
 
