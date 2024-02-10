@@ -15,12 +15,10 @@
  - [MongoDB](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-configure-mongodb?view=sql-server-ver16)
  - [Cosmos DB](https://en.wikipedia.org/wiki/Cosmos_DB)
  
-  через [PolyBase](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-guide?view=sql-server-ver16) с помощью `Java` (полностью ручная процедура). Но там пока все вручную.
+  через [PolyBase](https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-guide?view=sql-server-ver16) с помощью `Java` пока вручную.
   
-Таким образом [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) в настоящее время является хабом данных.
+Таким образом [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) в настоящее время является хабом данных. Есть платформы для работы с данными, например [MarkLogic](https://www.marklogic.com/)
 
 [**Объектно-ориентированные базы данных (сокращенно ООБД)**](https://en.wikipedia.org/wiki/Object_database) в виде составных и пользовательских типов данных с неограниченной гибкостью - списки, словари, [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)-ы как главный козырь [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)), их срезы, классы с их композицией и наследованием, к которым подводят мысль во многих книгах как продолжение темы [**объектно-ориентированного программирования (сокращенно ООП)**](https://en.wikipedia.org/wiki/Object-oriented_programming) - обещали крупный прорыв в теме, после которого можно забыть ранее упомянутые средства. Было много духовных исканий. Пробовали выделить память данных от прикладного ПО в отдельные полноценные ООСУБД с 1980-х годов. Перебирали разные языки программирования, изобретали новые языки запросов и перемычки между ними. Но не хватило идейного наполнения. Используются в университетской среде насколько позволяет оперативная память операционной системы в основном в однопользовательском режиме, так как с транзакциями и отказоустойчивостью у них не очень. Само собой работать с ними может только их разработчик.
 
 Пока для хранения ООБД используются библиотеки [pickle](https://docs.python.org/3/library/pickle.html) и [shelve](https://docs.python.org/3/library/shelve.html).
-
-Также есть коммерческие платформы для работы с данными, например [MarkLogic](https://www.marklogic.com/)
