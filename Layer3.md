@@ -15,7 +15,7 @@
  - схемы,
  - пространства имен с типами данных
 
-по ресурсам на внешних адресах для удобства доступа к ним широкой публики на [толстых клиентах](https://translated.turbopages.org/proxy_u/en-ru.ru.91801fcf-65756647-2811cda9-74722d776562/https/www.geeksforgeeks.org/difference-between-thin-clients-and-thick-clients/) или другим серверам, выполняющих какие-то другое задачи. И главная битва нынешнего времени - [FullStack](https://www.w3schools.com/whatis/whatis_fullstack.asp) или [FrontEnd + BackEnd](https://en.wikipedia.org/wiki/Frontend_and_backend)
+ по ресурсам на внешних адресах для удобства доступа к ним широкой публики на [толстых клиентах](https://translated.turbopages.org/proxy_u/en-ru.ru.91801fcf-65756647-2811cda9-74722d776562/https/www.geeksforgeeks.org/difference-between-thin-clients-and-thick-clients/) или другим серверам, выполняющих какие-то другое задачи. И главная битва нынешнего времени - [FullStack](https://www.w3schools.com/whatis/whatis_fullstack.asp) или [FrontEnd + BackEnd](https://en.wikipedia.org/wiki/Frontend_and_backend)
 
 Местами еще остались последователи эпохи [бума доткомов](https://en.wikipedia.org/wiki/Dot-com_bubble), предлагающие как вариант перенести локальное ПО на сайты. Но гонять движущуюся пиксельную графику через провайдеров - не совсем здорово
 
