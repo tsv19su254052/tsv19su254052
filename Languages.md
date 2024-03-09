@@ -72,7 +72,7 @@
  - Не пропорцинально отображает виждеты в разных сочетаниях.
 
 [pyQt](https://en.wikipedia.org/wiki/Qt_(software)):
- - Самая ходовая и функциональная.
+ - Самая ходовая и функциональная. Вот неплохое [видео](https://www.youtube.com/watch?v=NGCb7KeEdLk) по этой теме.
  - Есть свободная (все слетает при слишком быстром обновлении полосы прогресса и др.) и есть коммерческая.
  - Можно вставлять виджеты и графику из других библиотек, например графику [MatPlotLib](https://en.wikipedia.org/wiki/Matplotlib), карту в виде подложки с [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) (см. [статью](https://stackoverflow.com/questions/62835189/how-to-show-google-map-in-my-qtgui-using-pyqt5-qwebkitwidgets)), [морскую карту](https://www.marinetraffic.com/ru/ais/home/centerx:-12.0/centery:25.0/zoom:4) с кораблями и самолетами.
  - Макет (эскиз) рисуется и сохраняется :floppy_disk: XML-ной структурой в файле __имя файла.ui__ или __имя файла.gui__ комплектным дизайнером, который вызывается командой **pyqt5-tools designer** (версия 3.10 и более ранние) или **pyqt6-tools designer** (версия 3.11).
