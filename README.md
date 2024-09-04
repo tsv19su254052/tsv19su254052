@@ -9,4 +9,4 @@
 [Способы и средства разработки](https://github.com/tsv19su254052/tsv19su254052/blob/main/Languages.md)
 
 ----
-Облагодетельствовать можно на карточку :euro: :dollar: :credit_card: <span style="color:Green">VISA СберБанка</span> 4276 3000 3587 2715
+Облагодетельствовать можно на карточку :euro: :dollar: :credit_card: СберБанка 2202 2053 0560 8108
