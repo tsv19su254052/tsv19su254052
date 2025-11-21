@@ -2,7 +2,7 @@
 
 Источники см.:
  - https://vk.com/wolframmathematica
- - https://en.wikipedia.org/wiki/Blackbushe_Airport
+ - https://vk.com/proglib
 
 Также см. [Старую учетку](https://github.com/tsv19su), которую в целях сохранности владения уступил Артюхову Владу, потом он уступил ее обратно мне.
 
