@@ -4,9 +4,6 @@
 
 [Tcl](https://en.wikipedia.org/wiki/Tcl "Описание") [💬](https://www.tcl.tk/about/language.html "Делал некоторые графические оболочки с помощью среды разработки tkBuilder"):
  - Применяется в основном с середины 1990-х и до середины 2000-х на [ORACLE Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris).
- - Рисование макетов (эскизов) изначально не предусматривалось. Графика пишется сразу в исходниках на [Tk](https://en.wikipedia.org/wiki/Tk_(software)).
- - Позднее для их рисования и привязки к их виджетам скриптов на TCL применяется [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) (есть в папаке `Q:\M$_Windows\Tcl\tkBuilder (IDE for Tk)` на сервере, см. снимок экрана ниже), [Komodo](https://www.activestate.com/products/komodo-ide/) и [GUI Builder](https://spectcl.sourceforge.net/).
- - Начиная с `Tcl 8.5` появился `ttk` (`tk` с темами).
 
 ![tkBuilder Начало 4](https://user-images.githubusercontent.com/104857185/219376538-1686668f-58e8-41e1-b9ff-a7f55ed34eaf.png)
 
@@ -43,18 +40,16 @@
 ## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework) для `Python`-а в том числе:
 
 [tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html) [🗯️](https://ru.wikibooks.org/wiki/GUI_Help/Tkinter_book):
+ - Рисование макетов (эскизов) изначально не предусматривалось. Графика пишется сразу в исходниках на [Tk](https://en.wikipedia.org/wiki/Tk_(software)).
+ - Позднее для их рисования и привязки к их виджетам скриптов на TCL применяется [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) (есть в папаке `Q:\M$_Windows\Tcl\tkBuilder (IDE for Tk)` на сервере) см. снимок экрана ниже), [Komodo](https://www.activestate.com/products/komodo-ide/), [GUI Builder](https://spectcl.sourceforge.net/), [tk-builder](https://pypi.org/project/tk-builder), самодельный [TkInter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) и даже [WEB-дизайнер](https://visualtk.com/), а также другие свободные и платные [дизайнеры](https://stackoverflow.com/questions/14142194/is-there-a-gui-design-app-for-the-tkinter-grid-geometry) разной свежести.
+ - Начиная с `Tcl 8.5` появился `ttk` (`tk` с темами).
  - Использует [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)), который имеет ограниченные по нынешним временам возможности для творчества. 
  - Содержит встроенный интерпретатор `TCL`, скрипты на котором можно прикрутить к графической оболочке как функционал.
- - Для рисования макетов (эскизов) графической оболочки есть [tk-builder](https://pypi.org/project/tk-builder) , есть самодельный [TkInter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) и даже [WEB-дизайнер](https://visualtk.com/), а также другие свободные и платные [дизайнеры](https://stackoverflow.com/questions/14142194/is-there-a-gui-design-app-for-the-tkinter-grid-geometry) разной свежести.
 
-[tkvue](https://pypi.org/project/tkvue) [💬](https://gitlab.com/ikus-soft/tkvue) :
+[tkvue](https://pypi.org/project/tkvue) [💬](https://gitlab.com/ikus-soft/tkvue) <- [XUL](https://ru.wikipedia.org/wiki/XUL), [XAML](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language):
  - Дополнительно может использовать [tk, ttk и ttk+](https://en.wikipedia.org/wiki/Tk_(software)).
  - Своеобразна тем, что макет (эскиз) в виде XML-ной разметки (не требует конвертации в какой-то свой ресурсный файл `*.gui, *.ui`) можно вынести из исходника во внешний файл или в XML-ное поле SQL-ной базы данных и на исполнении парсить его оттуда. Есть как бы заброс на простой и нетрудоемкий [Solution Stack](https://en.wikipedia.org/wiki/Solution_stack).
  - Макеты (эскизы) можно генерировать программно и хранить в базе не просто как [BLOB](https://en.wikipedia.org/wiki/Object_storage)-ы, а пропускать через схему. Это уже следующая фаза разработки.
-
-[XUL](https://ru.wikipedia.org/wiki/XUL)
-
-[XAML](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 
 [pySimpleGUI](https://www.pysimplegui.org/en/latest/) :
  - Проста, интересна.
@@ -92,4 +87,5 @@
  - Виджеты на них можно расставлять и менять программно.
 
 ![Макеты на ресурсных файлах](https://github.com/tsv19su254052/tsv19su254052/assets/104857185/1c64fd4b-19f8-4f55-8162-5dbe4154576b)
+
 
