@@ -15,8 +15,8 @@
 <!--
 Вообще все-таки надо выяснить:
  - как пространства имен и их имена доставляются с внешнего ресурса,
- - могут ли пространства имен вкладываться друг в друга и ссылаться друг на друга,
  - нужно ли для их получения постоянное подключение к этому внешнему ресурсу?
+ - могут ли пространства имен вкладываться друг в друга и ссылаться друг на друга,
 -->
 
 API-шный курсор понятия не имеет, отвалился ли сервер по локалке или нет. Отдельной функции для этого и бесшовной процедуры переподкючения пока не обнаружено. Косвенно понять это можно например по большому таймауту. Но как отличить его от просто нагрузки сервера или взаимоблокировки?
@@ -52,20 +52,27 @@ API-шный курсор понятия не имеет, отвалился л�
 ----
 
 Для проверки `XML`-ных структур данных на соответствие задуманному применяется:
+ - [DTD](https://en.wikipedia.org/wiki/Document_type_definition) (еще применяется в `XSLT` и в некоторых местах),
+ - [XDR](https://en.wikipedia.org/wiki/XDR_Schema) (была в ходу до `XSD`),
  - [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) [💬](https://bdpx.github.io/xml/lab3/xsd.html "Описание") ,
  - [Relax NG](https://en.wikipedia.org/wiki/RELAX_NG) ,
  - [Schematron](https://en.wikipedia.org/wiki/Schematron) [💬](https://schematron.com/hints/xsdtoschematron/01_converting_xml_schemas_to_schematron.html) ,
  - [Saxon](https://www.saxonica.com/about/about.xml).
 
 Для `XML`-ных структур данных применяются:
- - [XLink](https://en.wikipedia.org/wiki/XLink) - привязка ссылок на внешние ресурсы,
- - [XInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) - привязка или вставка внешних файлов, в том числе других структур данных,
- - [XPointer](https://en.wikipedia.org/wiki/XPointer) - индексация по подветкам и по узлам,
- - [XPath](https://en.wikipedia.org/wiki/XPath) [💬](https://www.w3.org/TR/xpath-functions/#maps-and-arrays) & [XQuery](https://en.wikipedia.org/wiki/XQuery) [💬](http://xmlhack.ru/texts/03/xquery/what.is.xquery.html) [💬](https://documentation.softwareag.com/webmethods/compendiums/v10-5/C_API_Management/index.html#page/api-mgmt-comp%2Fco-portlet_custom_search_write_xquery.html%23) и [EXPath](http://expath.org/) - написание запросов вручную,
+ - [xLink](https://en.wikipedia.org/wiki/XLink) - привязка ссылок на внешние ресурсы,
+ - [xInclude](https://en.wikipedia.org/wiki/XInclude) [💬](https://www.w3.org/TR/xinclude/) - привязка или вставка внешних файлов, в том числе других структур данных,
+ - [xPointer](https://en.wikipedia.org/wiki/XPointer) - индексация по подветкам и по узлам,
+ - [xPath](https://en.wikipedia.org/wiki/XPath) [💬](https://www.w3.org/TR/xpath-functions/#maps-and-arrays) & [xQuery](https://en.wikipedia.org/wiki/XQuery) [💬](http://xmlhack.ru/texts/03/xquery/what.is.xquery.html) [💬](https://documentation.softwareag.com/webmethods/compendiums/v10-5/C_API_Management/index.html#page/api-mgmt-comp%2Fco-portlet_custom_search_write_xquery.html%23) и [exPath](http://expath.org/) - написание запросов вручную,
  - [XQL](http://www.ibiblio.org/xql/xql-proposal.html) [💬](https://www.w3.org/TandS/QL/QL98/pp/xql.html) - написание запросов частично программно и частично вручную,
- - [XProc](https://en.wikipedia.org/wiki/XProc) и [OPML](https://en.wikipedia.org/wiki/OPML) - выполнение запроса в прикладном слое,
- - [XSLT](https://en.wikipedia.org/wiki/XSLT), [EXSLT](https://en.wikipedia.org/wiki/EXSLT) и [XMark](https://projects.cwi.nl/xmark/index.html) - оформление результата запроса,
- - [XSpec](https://xspec.io/about/) [💬](https://github.com/expath/xspec/tree/master) [💬](https://groups.google.com/g/xspec-users "Обсуждения по теме в группе") - анализ работы вышеперечисленных.
+ - [xProc](https://en.wikipedia.org/wiki/XProc) и [OPML](https://en.wikipedia.org/wiki/OPML) - выполнение запроса в прикладном слое,
+ - [XSLT](https://en.wikipedia.org/wiki/XSLT), [eXSLT](https://en.wikipedia.org/wiki/EXSLT) - преобразование,
+ - [xMark](https://projects.cwi.nl/xmark/index.html) - оформление результата запроса,
+ - [xSpec](https://xspec.io/about/) [💬](https://github.com/expath/xspec/tree/master) [💬](https://groups.google.com/g/xspec-users "Обсуждения по теме в группе") - анализ работы вышеперечисленных.
+
+<!-- 
+Было бы неплохо дать тут схемы что во что входит или применяется и где используются одни и те же типы данных 
+-->
 
 Эти наработки из самостоятельного (иногда платного) прикладного ПО также перешли в плагины для сред разработки и в библиотеки:
  - [xml](https://docs.python.org/3/library/xml.html),
