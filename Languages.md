@@ -32,6 +32,8 @@
 
 ## [Графические библиотеки](https://en.wikipedia.org/wiki/Software_framework) для `Python`-а в том числе:
 
+Опытные люди говорят и пишут, что их сейчас десятки, а может и сотни. Перечислю некоторые
+
 [tkinter](https://en.wikipedia.org/wiki/Tkinter) [🗯️](https://docs.python.org/3/library/tkinter.html) [🗯️](https://ru.wikibooks.org/wiki/GUI_Help/Tkinter_book) Графика пишется в исходниках вставками на [Tk](https://en.wikipedia.org/wiki/Tk_(software)). Для рисования макетов (эскизов) и привязки к их виджетам функционала применяются:
  - [tkBuilder](https://sourceforge.net/projects/tkbuilder84/) (см. снимок экрана ниже),
  - [Komodo](https://www.activestate.com/products/komodo-ide/),
@@ -49,7 +51,9 @@
 
 [pySimpleGUI](https://www.pysimplegui.org/en/latest/) проста, интересна. Имеет наборы стилей. Мало примеров. 
 
-[Gtk и Gtk+](https://en.wikipedia.org/wiki/GTK) используется в `Linux`-е в оконном мэнэджере [Gnome](https://en.wikipedia.org/wiki/GNOME). Есть [pyGTK](https://en.wikipedia.org/wiki/PyGTK) , которая закрыта в 2011-м и на `Windows` пока не ставится, переехала на [pyGObject](https://pygobject.readthedocs.io/en/latest/) и начиная с версии 3 `GTK+` имеет ошибки. Есть открытые и коммерческие дизайнеры, в том числе [GTK Builder](https://docs.gtk.org/gtk3/class.Builder.html).
+[Gtk и Gtk+](https://en.wikipedia.org/wiki/GTK) используется в `Linux`-е в оконном мэнэджере [Gnome](https://en.wikipedia.org/wiki/GNOME). Есть [pyGTK](https://en.wikipedia.org/wiki/PyGTK) , которая закрыта в 2011-м и на `Windows` пока не ставится, переехала на [pyGObject](https://pygobject.readthedocs.io/en/latest/) и начиная с версии 3 `GTK+` имеет ошибки. Есть открытые и коммерческие дизайнеры, в том числе [GTK Builder](https://docs.gtk.org/gtk3/class.Builder.html). Ее раздали по опен-соурсам видимо в надежде что их починят.
+
+[KDE Frameworks](https://en.wikipedia.org/wiki/KDE_Frameworks) применялась в 2000-е, но с `Python`-ом там мало связано, в основном `C++`. Они маленькие, но их много. Тоже раздали по [опен-соурсам](https://invent.kde.org/frameworks)
 
 [wxPython](https://en.wikipedia.org/wiki/WxPython) еще кривая, неправильно отображает не-ASCII-кодировки, не пропорцинально отображает виждеты в разных сочетаниях.
 
