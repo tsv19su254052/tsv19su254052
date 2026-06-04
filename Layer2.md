@@ -1,5 +1,3 @@
-## Второй слой - логика, расчеты, математическое моделирование, анализ
-
 Если нужно что-то для нечастого или начального использования вручную с ключами, с путями и с последовательным вводом-выводом или для вторичных вызовов как функция, [API](https://en.wikipedia.org/wiki/API)-шка , то пишем [скрипт](https://timeweb.com/ru/community/articles/chto-takoe-skript):
  - на `Python`-е с помощью среды разработки [pyCharm](https://en.wikipedia.org/wiki/PyCharm),
  - на `SQL` для работы с **SQL**-ными базами данных на `SQL` с помощью среды разработки [SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL_Server_Management_Studio) или [Azure Data Studio](https://learn.microsoft.com/ru-ru/azure-data-studio/quickstart-sql-server) (попроще, кривая, на разных Unicode-ах строчки не на win-1251 преобразует в ромбики и квадратики, закидывает все без разбора на GitHub),
