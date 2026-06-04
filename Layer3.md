@@ -1,5 +1,3 @@
-## Третий слой - оболочки (ожидаются значительные изменения - см. 2 абзаца внизу)
-
 Для облегчения понимания хорошо почитать про:
  - [стандарты](https://www.oasis-open.org/standards) от консорциума [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)),
  - [лицензии](https://en.wikipedia.org/wiki/Software_license) на программное обеспечение,
