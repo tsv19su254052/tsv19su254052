@@ -4,7 +4,7 @@
 
 Архитектуру можно разделить на [слои](https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture) [💬](https://www.codeproject.com/Articles/5283291/Examples-of-Layered-Application-Architecture-Based "Первая статья - переложение лекций из Голландии (устаревшая, но в целом правильная точка зрения)") [💬](https://www.codeproject.com/Articles/5317447/Layered-Application-Architecture-with-a-Homogeneou "Вторая статья того же автора"):
 
- - [Первый слой](https://github.com/tsv19su254052/tsv19su254052/blob/main/Layer1.md)
+ - [Первый слой](https://github.com/tsv19su254052/tsv19su254052/blob/main/Layer1.md) (моделирование данных по состоянию и по поведению)
 
  - [Второй слой](https://github.com/tsv19su254052/tsv19su254052/blob/main/Layer2.md) (логика, расчеты, математическое моделирование, анализ)
 
